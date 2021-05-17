@@ -1,4 +1,4 @@
-id,Outlook,Temp,Humidity,Wind,Play
+day,Outlook,Temp,Humidity,Wind,Play
 1,Sunny,Hot,High,Weak,N
 2,Sunny,Hot,High,Strong,N
 3,Overcast,Hot,High,Weak,Y
