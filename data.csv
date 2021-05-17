@@ -1,0 +1,15 @@
+id,Outlook,Temp,Humidity,Wind,Play
+1,Sunny,Hot,High,Weak,N
+2,Sunny,Hot,High,Strong,N
+3,Overcast,Hot,High,Weak,Y
+4,Rain,Mild,High,Weak,Y
+5,Rain,Cool,Normal,Weak,Y
+6,Rain,Cool,Normal,Strong,N
+7,Overcast,Cool,Normal,Strong,Y
+8,Sunny,Mild,High,Weak,N
+9,Sunny,Cool,Normal,Weak,Y
+10,Rain,Mild,Normal,Weak,Y
+11,Sunny,Mild,Normal,Strong,Y
+12,Overcast,Mild,High,Strong,Y
+13,Overcast,Hot,Normal,Weak,Y
+14,Rain,Mild,High,Strong,N
